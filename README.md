@@ -1,0 +1,1 @@
+o projeto é sobre jardinagem virtual, assim como aquela Muié do alura fez, mas o meu foi feito do meu jeitinho meio simples, o ngc é voces jogarem como se fossem um regador, tlgd? vc pode colocar água nas 10 plantas e por fim deixar elas crescerem infinitamente :) me desculpem se meu projeto é entediante.
